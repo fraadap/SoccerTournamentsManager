@@ -1,0 +1,11 @@
+Prod	Taglia	Dimensione	Prezzo
+P1	h	12*3	12 ?
+P2	L	15*32	13
+P3	L	15*33	* X3#
+?@?	L	15*34	3
+P1	XL	12*3	12 ?
+P2	S	12*4	13 ?
+P3	L	12*5	14 ?
+P4	XL	12*6	15 ?
+P5	S	12*7	16 ?
+P6	L	12*8	17 ?
